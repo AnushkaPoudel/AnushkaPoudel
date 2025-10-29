@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/anushkapoudel1" target="blank"><img src="https://img.shields.io/twitter/follow/anushkapoudel1?logo=twitter&style=for-the-badge" alt="anushkapoudel1" /></a> </p>
 
-- 🌱 I’m currently learning **python,Reactjs**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **anushkapoudel1402@gmail.com**
 
